@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "file:///Users/arnaldosilva/Library/Mobile%20Documents/com~apple~CloudDocs/HTML/Self%20Website/About%20Me.html",
+            "url": "./About%20Me.html",
             "webRoot": "${workspaceFolder}"
         }
     ]
